@@ -563,7 +563,7 @@ body {
 }
 .invitation-title {
     font-size: 24px;
-    font-family: var(--script-font);
+    font-family: var(--title-font);
 }
 
 /* BẢN ĐỒ */
